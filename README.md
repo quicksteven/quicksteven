@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steven
-- 👀 I’m interested in data analysis and breaking into the tech world
+- 👀 I’m interested in data analysis and breaking into tech 
 - 🌱 I’m currently learning data analysis, spreadsheets, SQL, Tableau. Currently working through Google's Professional Certificate
 
 <!---
